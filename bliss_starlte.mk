@@ -46,6 +46,7 @@ PRODUCT_PACKAGES_DEBUG_ASAN := false
 
 #Blissify
 BLISS_BUILDTYPE := OFFICIAL
+BLISS_BUILD_VARIANT=vanilla
 
 BUILD_FINGERPRINT := samsung/starltexx/starlte:10/QP1A.190711.020/G960FXXUCFTK1:user/release-keys
 
